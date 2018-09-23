@@ -1,0 +1,3 @@
+qiniu
+oss2
+requests
